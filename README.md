@@ -1,5 +1,5 @@
-# Zadanie 1: konfiguracja oprogramowania
+# Zadanie 1: Konfiguracja oprogramowania
 
 ## Pozadanie 1: Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge?
 
-#### Pół roku pracuję jako tester manualny, chcę rozwijać się dalej w branży, dlatego postanowiłam spróbować swoich sił w testach automatycznych!
+#### Hej! Jestem Zuza i jako tester manualny pracuję pół roku, chcę dalej rozwijać swoje umiejętności, dlatego dołączyłam do tego wyzwania. Chcę się nauczyć podstaw automatyzacji testów oraz przekonać się czy Python+Selenium to połączenie, które będzie mi odpowiadało w pracy.
