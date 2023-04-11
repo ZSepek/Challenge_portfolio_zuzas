@@ -6,8 +6,10 @@
 # ZADANIE 2: Selektory
 
 #### **Pole do wpisania loginu:**
-//*[@id="login"] 1/html/body/div/form/div/div[1]/div[1]/div/input 2
+![image](https://user-images.githubusercontent.com/36918613/231254123-08d44da0-34c8-4474-b190-3a12c43c212e.png)
 
-Order Lists:
-Item 1. Item 
-2. Item 3Item 4Item 5
+1. //*[@id="login"] 
+2. /html/body/div/form/div/div[1]/div[1]/div/input
+3. //*[text()="Login"]
+
+
