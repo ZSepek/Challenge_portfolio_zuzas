@@ -39,5 +39,5 @@
 
 1. //*[@id="__next"]/form/div/div[2]/div/div
 2. /html/body/div/form/div/div[2]/div/div
-3. //*[text()="English"]
+3. //*[text()="English"] oraz //*[text()="Polski"]
 
