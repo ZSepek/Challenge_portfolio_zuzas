@@ -48,4 +48,5 @@
 
 
 ## ﻿Subtask 3: Dodawanie selektorów do projektu
->>>>>>> 00c216d85ff80dd301a57a479463ffbda11161e7
+## ﻿Subtask 4: Dodanie nowego pliku
+## 
