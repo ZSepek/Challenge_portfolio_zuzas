@@ -42,3 +42,5 @@
 3. //*[text()="English"] 
 4. //*[text()="Polski"]
 
+
+## ﻿Subtask 3: Dodawanie selektorów do projektu
