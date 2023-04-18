@@ -1,3 +1,4 @@
+import time
 from pages.base_page import BasePage
 
 
@@ -12,5 +13,11 @@ class Dashboard(BasePage):
     last_update_match_xpath = "//*/a[4]/button"
     menu_main_xpath = "//*[text()='Main page']"
     sign_out_button_xpath = "//*[text()='Sign out']"
+    dashboard_url = 'https://scouts-test.futbolkolektyw.pl'
+    expected_title = "Scouts panel"
 
     pass
+
+    def title_of_page(self):
+        time.sleep(5)
+        assert self.get_page_title(self.dashboard_url) == self.expected_title
