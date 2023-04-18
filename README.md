@@ -50,3 +50,6 @@
 ## ﻿Subtask 3: Dodawanie selektorów do projektu
 ## ﻿Subtask 4: Dodanie nowego pliku
 ## ﻿Subtask 5: Dodanie nowego pliku - add a match form
+
+# ﻿Zadanie 3: Pierwszy test i assert
+
