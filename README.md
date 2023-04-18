@@ -1,6 +1,6 @@
 # ZADANIE 1: Konfiguracja oprogramowania
 
-## Pozadanie 1: Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge?
+## Subtask 1: Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge?
 <<<<<<< HEAD
 
 #### Hej! Jestem Zuza i jako tester manualny pracuję pół roku, chcę dalej rozwijać swoje umiejętności, dlatego dołączyłam do tego wyzwania. Chcę się nauczyć podstaw automatyzacji testów oraz przekonać się czy Python+Selenium to połączenie, które będzie mi odpowiadało w pracy.
@@ -52,4 +52,6 @@
 ## ﻿Subtask 5: Dodanie nowego pliku - add a match form
 
 # ﻿Zadanie 3: Pierwszy test i assert
-
+## Subtask 1: Uzupełnienie strony logowania
+## ﻿Subtask 2: Nowy przypadek testowy
+## ﻿Subtask 3: Assert
